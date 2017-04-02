@@ -1,6 +1,6 @@
 {
     "name": "blinky",
-    "version": "0.0.0",
+    "version": "0.0.1",
     "description": "This is a micro controller HelloWorld",
     "license": "MIT",
     "dependencies": {
